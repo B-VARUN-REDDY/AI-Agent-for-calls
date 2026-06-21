@@ -1,0 +1,47 @@
+[0:02] Agent: May be recorded for quality and training purposes.
+[0:07] Agent: Thanks for calling Pivot Point Orthopaedics.
+[0:09] Agent: Part of Pretty Good AI.
+[0:11] Agent: Am I speaking with Daniel?
+[0:15] Patient: Oh, no, this is Nina — Nina
+[0:18] Agent: Thanks, Nina.
+[0:19] Agent: How can I help today?
+[0:21] Agent: Thanks, Nina.
+[0:22] Agent: How can I help today?
+[0:30] Patient: Hi! Um, I was wondering if I could do a video visit instead of coming in for my appointment. Like a telehealth option?
+[0:35] Agent: Please tell me your date of birth.
+[0:39] Patient: Sure, it's April 17th, 1990.
+[0:44] Agent: I have Nita Lopez.
+[0:46] Agent: Born April seventeenth nineteen ninety.
+[0:47] Agent: Is that correct?
+[0:54] Patient: It's actually Nina, Nina But yes, the date of birth is right.
+[1:01] Agent: Do you want to use the phone number on file to look up your record?
+[1:04] Patient: Yeah, that Go ahead.
+[1:10] Agent: I have your number as nine seven one
+[1:12] Agent: three eight nine
+[1:13] Agent: three four eight zero
+[1:17] Agent: and your date of birth as April seventeenth nineteen ninety.
+[1:18] Agent: Is that correct?
+[1:27] Patient: Um, actually my number is 805-555-0162. That doesn't sound right.
+[1:31] Agent: Let me update that.
+[1:33] Agent: And our billing number is eight zero five
+[1:34] Agent: five five five
+[1:36] Agent: zero one six two
+[1:38] Agent: and your date of birth
+[1:40] Agent: as April seventeenth nineteen ninety.
+[1:42] Agent: Is that correct?
+[1:43] Agent: Let me update that.
+[1:46] Agent: I have your number as eight zero five
+[1:47] Agent: five five five
+[1:48] Agent: zero one six
+[1:49] Agent: two.
+[1:50] Agent: And your date of birth,
+[1:52] Agent: as April seventeenth
+[1:54] Agent: nineteen ninety.
+[1:55] Agent: Is that correct?
+[1:58] Patient: Yes, that's correct!
+[2:05] Agent: Connecting you to a representative.
+[2:06] Agent: Please wait.
+[2:08] Agent: Hello.
+[2:10] Agent: You've reached the Pretty Good AI test line.
+[2:11] Agent: Goodbye.
+[2:17] Patient: Oh — okay.

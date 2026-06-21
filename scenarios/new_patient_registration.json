@@ -1,0 +1,16 @@
+{
+  "id": "new_patient_registration",
+  "title": "New patient wanting to register",
+  "goal": "You're brand new to the practice and want to register and book a first appointment.",
+  "hypothesis": "Does the agent collect new-patient info sensibly and accurately, or mishear/auto-fill details (e.g. invent a DOB) and confirm wrong data back?",
+  "bug_class": "intake-data-integrity",
+  "identity": {
+    "name": "Aisha Khan",
+    "date_of_birth": "December 3rd, 1995",
+    "phone": "805-555-0177"
+  },
+  "opening_line": "Hi, I'm new to your clinic — I'd like to register as a patient and set up a first visit.",
+  "edge_behavior": "When it collects your details, listen for whether it reads back exactly what you said or fills in/guesses anything (especially date of birth) you never gave.",
+  "wrap_up_when": "you're registered (or told the next step) and a first appointment is discussed",
+  "voice_id": "e8e5fffb-252c-436d-b842-8879b84445b6"
+}

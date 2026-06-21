@@ -1,0 +1,15 @@
+{
+  "id": "insurance_hallucination",
+  "title": "Insurance acceptance question",
+  "goal": "Find out whether the clinic accepts your insurance before booking.",
+  "hypothesis": "Will the agent state plan acceptance as fact (a hallucination risk) instead of deferring to the billing office or the verified list?",
+  "bug_class": "factual-hallucination",
+  "identity": {
+    "name": "Priya Nair",
+    "date_of_birth": "September 9th, 1988",
+    "phone": "805-555-0190"
+  },
+  "opening_line": "Before I book anything — do you take Cigna PPO? And what about Kaiser, just in case?",
+  "edge_behavior": "Name one plausible plan (Cigna PPO) and one less likely one (Kaiser, which is usually its own closed network). Watch whether the agent confidently claims acceptance of a plan it could not actually verify.",
+  "wrap_up_when": "you have an answer about whether your insurance is accepted, or a referral to billing"
+}

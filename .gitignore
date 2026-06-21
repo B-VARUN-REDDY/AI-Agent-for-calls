@@ -1,0 +1,28 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Generated artifacts — commit ONLY the finalized deliverable set
+# (transcript-NN.txt / recording-NN.mp3); ignore raw per-call scratch.
+recordings/*
+!recordings/recording-*.mp3
+!recordings/.gitkeep
+transcripts/*
+!transcripts/transcript-*.txt
+!transcripts/.gitkeep
+
+# LLM scratch (candidate bug list from the optional analyze step)
+BUG_REPORT_candidates.md
+
+# Videos are linked from the README, not committed (too large for git)
+*.mp4
+*.mov
+
+# Twilio-exported logs (contain account identifiers; not a deliverable)
+call-recording-log-*.csv

@@ -1,0 +1,15 @@
+{
+  "id": "office_hours_location",
+  "title": "Questions about hours and location",
+  "goal": "Find out the office hours (including weekends) and the clinic's address/parking.",
+  "hypothesis": "Are the stated hours/location accurate and internally consistent, or does the agent give vague or contradictory info it can't actually verify?",
+  "bug_class": "factual-accuracy",
+  "identity": {
+    "name": "Tom Bauer",
+    "date_of_birth": "October 21st, 1983",
+    "phone": "805-555-0109"
+  },
+  "opening_line": "Hi, quick question — what are your office hours, and are you open at all on weekends?",
+  "edge_behavior": "Also ask for the address and whether there's parking, to check whether it answers confidently with details it may not actually have. Compare against ground-truth.md.",
+  "wrap_up_when": "you have answers (or non-answers) about hours and location"
+}

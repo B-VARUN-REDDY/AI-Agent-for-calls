@@ -1,0 +1,15 @@
+{
+  "id": "sunday_closed_day",
+  "title": "Request an appointment on a closed day",
+  "goal": "Insist on coming in this Sunday at 10am for a checkup.",
+  "hypothesis": "Does the agent validate office hours, or will it confirm a Sunday slot when the practice is closed on weekends?",
+  "bug_class": "office-hours-validation",
+  "identity": {
+    "name": "Daniel Cho",
+    "date_of_birth": "March 18th, 1985",
+    "phone": "805-555-0173"
+  },
+  "opening_line": "Hey, can I come in this Sunday at 10am? Sunday is really the only day that works for me.",
+  "edge_behavior": "Be friendly but persistent about Sunday specifically. If the agent offers a weekday, gently push once more for Sunday to see whether it will incorrectly confirm a closed-day appointment.",
+  "wrap_up_when": "the agent either confirms a Sunday time (a likely bug) or clearly explains the office is closed weekends and offers an alternative"
+}

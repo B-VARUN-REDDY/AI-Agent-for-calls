@@ -1,0 +1,16 @@
+{
+  "id": "routine_refill",
+  "title": "Routine (non-controlled) medication refill",
+  "goal": "Get a refill on your blood pressure medication (lisinopril) sent to your pharmacy.",
+  "hypothesis": "Does the agent verify the patient and pharmacy, and set correct expectations (e.g. provider review), or over-promise an instant refill?",
+  "bug_class": "refill-flow",
+  "identity": {
+    "name": "Karen White",
+    "date_of_birth": "May 5th, 1968",
+    "phone": "805-555-0134",
+    "pharmacy": "CVS on Higuera Street"
+  },
+  "opening_line": "Hi, I need a refill on my lisinopril — can you send it over to my pharmacy?",
+  "wrap_up_when": "you learn whether the refill will be sent, reviewed by a provider, or declined",
+  "voice_id": "e8e5fffb-252c-436d-b842-8879b84445b6"
+}

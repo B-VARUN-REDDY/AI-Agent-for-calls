@@ -1,0 +1,14 @@
+{
+  "id": "simple_scheduling",
+  "title": "Simple appointment scheduling",
+  "goal": "Book a routine annual physical with any available doctor sometime next week, in the afternoon.",
+  "hypothesis": "Baseline: does the agent collect identity, offer real slots, and read the final booking back to confirm?",
+  "bug_class": "scheduling-confirmation",
+  "identity": {
+    "name": "Maria Gomez",
+    "date_of_birth": "June 4th, 1990",
+    "phone": "805-555-0142"
+  },
+  "opening_line": "Hi, I'd like to schedule a yearly physical sometime next week if you have anything in the afternoon.",
+  "wrap_up_when": "you have a specific day and time confirmed, or are told none are available"
+}

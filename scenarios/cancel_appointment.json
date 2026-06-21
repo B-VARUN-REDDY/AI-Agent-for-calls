@@ -1,0 +1,14 @@
+{
+  "id": "cancel_appointment",
+  "title": "Cancel an appointment",
+  "goal": "Cancel your upcoming appointment entirely.",
+  "hypothesis": "Does the agent verify who you are before cancelling, confirm the cancellation, and handle it cleanly (no double-talk or hallucinated appointment)?",
+  "bug_class": "cancellation-flow",
+  "identity": {
+    "name": "Mark Davis",
+    "date_of_birth": "August 30th, 1978",
+    "phone": "805-555-0151"
+  },
+  "opening_line": "Hey, I need to cancel my appointment. Something came up and I won't be able to make it.",
+  "wrap_up_when": "the cancellation is confirmed, or you're told what you need to do to cancel"
+}

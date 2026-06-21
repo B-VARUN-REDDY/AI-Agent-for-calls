@@ -1,0 +1,16 @@
+{
+  "id": "reschedule_appointment",
+  "title": "Reschedule an existing appointment",
+  "goal": "Move your existing appointment to a different day next week, ideally later in the afternoon.",
+  "hypothesis": "Does the agent verify identity and actually locate/move an existing appointment, or does it just book a new one and/or invent details?",
+  "bug_class": "lookup-and-state-consistency",
+  "identity": {
+    "name": "Lisa Park",
+    "date_of_birth": "February 12th, 1991",
+    "phone": "805-555-0188"
+  },
+  "opening_line": "Hi, I have an appointment coming up but I need to move it to a different day next week. Can you help?",
+  "edge_behavior": "Don't volunteer the original appointment time. See whether the agent looks it up / asks to verify you, or just blindly creates a new booking.",
+  "wrap_up_when": "the appointment is moved and the new day/time is confirmed back to you, or you're told it can't be done",
+  "voice_id": "e8e5fffb-252c-436d-b842-8879b84445b6"
+}

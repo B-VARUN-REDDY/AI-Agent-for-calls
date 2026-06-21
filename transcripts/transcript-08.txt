@@ -1,0 +1,30 @@
+[0:03] Agent: May be recorded for quality and training purposes.
+[0:08] Agent: Thanks for calling Pivot Point Orthopaedics.
+[0:09] Agent: Part of Pretty Good AI?
+[0:11] Agent: Am I speaking with Daniel?
+[0:19] Patient: Oh, hi! Yeah, this is Lisa Park. I was hoping to reschedule an appointment I have coming up.
+[0:23] Agent: Please tell me your date of birth.
+[0:27] Patient: Sure, it's February 12th, 1991.
+[0:33] Agent: I have your name as Lisa Park.
+[0:36] Agent: And your date of birth as February twelfth
+[0:37] Agent: nineteen ninety one.
+[0:38] Agent: Is that correct?
+[0:41] Patient: Yes, that's correct.
+[0:48] Agent: Do you want to use a phone number on file to look up your record?
+[0:50] Patient: Yeah, go ahead.
+[0:56] Agent: Have your phone number as nine seven one
+[0:57] Agent: three eight nine
+[0:59] Agent: three four eight zero
+[1:03] Agent: and your date of birth as February twelfth nineteen ninety one.
+[1:04] Agent: Is that right?
+[1:11] Patient: Um, no, that's not my number. My number is 805-555-0188.
+[1:16] Agent: I have your number as eight zero five
+[1:19] Agent: five five five zero one eight
+[1:19] Agent: eight.
+[1:20] Agent: Is that correct?
+[1:24] Patient: Yes, that's right.
+[1:30] Agent: Connecting you to a representative.
+[1:31] Agent: Please wait.
+[1:33] Agent: Hello.
+[1:36] Agent: You've reached the Pretty Good AI test line.
+[1:36] Agent: Goodbye.

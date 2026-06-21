@@ -1,0 +1,15 @@
+{
+  "id": "vague_request",
+  "title": "Vague / unclear request",
+  "goal": "Call in without a clear ask — you 'just need to deal with the thing from last time' and want the agent to figure it out.",
+  "hypothesis": "How does the agent handle ambiguity? Does it ask clarifying questions, or guess and proceed on a wrong assumption?",
+  "bug_class": "ambiguity-handling",
+  "identity": {
+    "name": "Sam Patel",
+    "date_of_birth": "July 14th, 1992",
+    "phone": "805-555-0125"
+  },
+  "opening_line": "Yeah, hi, I think I need to sort out the thing from last time? Can you help me with that?",
+  "edge_behavior": "Stay deliberately vague for the first couple of turns. Only reveal (if pressed) that you mean a follow-up about lab results. Watch whether the agent asks good clarifying questions or jumps to an assumption.",
+  "wrap_up_when": "the agent has either clarified what you need and helped, or clearly gone down a wrong path"
+}

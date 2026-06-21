@@ -1,0 +1,39 @@
+[0:03] Agent: May be recorded for quality and training purposes.
+[0:07] Agent: Thanks for calling Tivid Point Orthopaedics.
+[0:09] Agent: Part of Pretty Good AI.
+[0:11] Agent: Am I speaking with Daniel?
+[0:16] Patient: Oh, no — it's Tom, actually. Tom Bauer.
+[0:20] Agent: What's your date of birth?
+[0:24] Patient: October 21st, 1983.
+[0:31] Agent: I have your name as Tom Bauer and your date of birth as
+[0:32] Agent: October twenty first nineteen eighty three.
+[0:33] Agent: Is that correct?
+[0:36] Patient: Yeah, that's right.
+[0:42] Agent: Please spell your full name for me, first and last, and your date of birth.
+[0:49] Patient: Sure — T-O-M, last name B-A-U-E-R. And date of birth is October 21st, 1983.
+[0:57] Agent: Do you want to use the phone number on file to look up your record?
+[1:01] Patient: Yeah, that works. Go ahead.
+[1:07] Agent: I have your number as nine seven one
+[1:08] Agent: three eight nine
+[1:10] Agent: three four eight zero
+[1:13] Agent: and your date of birth as October twenty first
+[1:14] Agent: nineteen eighty three.
+[1:15] Agent: Is that correct?
+[1:24] Patient: Hmm, that phone number doesn't sound right. Mine is 805-555-0109.
+[1:30] Agent: Have your number as zero five five five zero one zero nine.
+[1:31] Agent: Is that correct?
+[1:41] Patient: It's 805-555-0109. So that's 8-0-5, 5-5-5, 0-1-0-9.
+[1:46] Agent: I have your number as eight zero five
+[1:48] Agent: five five five
+[1:50] Agent: zero one zero nine.
+[1:51] Agent: Is that correct?
+[1:54] Patient: Yes, that's correct.
+[1:58] Agent: What's your date of birth?
+[2:02] Patient: October 21st, 1983.
+[2:09] Agent: Connecting you to a representative.
+[2:10] Agent: Please wait.
+[2:12] Patient: Sure,
+[2:12] Agent: Hello.
+[2:15] Agent: You've reached the Pretty Good AI test line.
+[2:15] Agent: Goodbye.
+[2:22] Patient: Oh — wait, I had a quick question about your office hours and location. Can you help me with that?

@@ -1,0 +1,31 @@
+[0:03] Agent: May be recorded for quality and training purposes.
+[0:07] Agent: Thanks for calling Pivot Point Orthopaedics.
+[0:10] Agent: Part of Pretty Good AI.
+[0:11] Agent: Am I speaking with Daniel?
+[0:16] Patient: Oh, no, this isn't Daniel. My name is Aisha Khan.
+[0:20] Agent: Please tell me your date of birth.
+[0:24] Patient: Sure, it's December 3rd, 1995.
+[0:28] Agent: Please tell me your full name,
+[0:29] Agent: first and last,
+[0:30] Agent: and your date of birth.
+[0:36] Patient: It's Aisha Khan, and my date of birth is December 3rd, 1995.
+[0:44] Agent: I have your name as Ayesha Khan and your date of birth as December third nineteen ninety
+[0:45] Agent: five?
+[0:46] Agent: Is that correct?
+[0:55] Patient: Um, actually the spelling is A-I-S-H-A, not Ayesha. But yes, the date of birth is correct.
+[0:59] Agent: Do you want to use a phone number to look up your record?
+[1:05] Patient: I'm actually a new patient, so I wouldn't have a record yet. I'm calling to register for the first time.
+[1:08] Agent: Thanks.
+[1:09] Agent: I can help you set up.
+[1:12] Agent: What can I help you with today?
+[1:17] Patient: Yeah, I'd like to register as a new patient and book a first appointment, please.
+[1:22] Agent: I can connect you to our patient
+[1:22] Agent: support team.
+[1:27] Agent: However, I'm a pretty good AI and can do many of the things an operator can.
+[1:29] Agent: Do you wanna give me a try?
+[1:32] Patient: Sure, yeah, let's give it a try!
+[1:37] Agent: Connecting you to a representative.
+[1:38] Agent: Please wait.
+[1:42] Agent: Hello. You've reached the Pretty Good AI test line.
+[1:43] Agent: Goodbye.
+[1:49] Patient: Oh — okay, that was unexpected. So, um, am I still able to get registered and book an appointment?

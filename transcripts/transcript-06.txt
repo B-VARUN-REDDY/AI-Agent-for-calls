@@ -1,0 +1,25 @@
+[0:03] Agent: Be recorded for quality and training purposes.
+[0:07] Agent: Thanks for calling Pivot Point Orthopaedics.
+[0:09] Agent: Part of Pretty Good AI.
+[0:11] Agent: Am I speaking with Daniel?
+[0:17] Patient: Oh, no — this is Robert. Robert Hayes.
+[0:21] Agent: Please tell me your date of birth.
+[0:26] Patient: Sure, it's January 27th, 1959.
+[0:33] Agent: Please spell your first and last name for me and confirm your date of birth.
+[0:42] Patient: It's Robert, R-O-B-E-R-T, Hayes, H-A-Y-E-S. And yeah, January 27th, 1959.
+[0:49] Agent: Do you wanna use a phone number on file to look up your record?
+[0:56] Patient: Sure, it's 805-555-0166.
+[1:01] Agent: I have your number as eight zero five
+[1:02] Agent: five five five
+[1:04] Agent: zero one six six.
+[1:08] Agent: And your date of birth is January twenty seventh nineteen fifty nine.
+[1:09] Agent: Is that correct?
+[1:12] Patient: Yes, that's correct.
+[1:16] Agent: One moment while I check that.
+[1:19] Patient: Sure, take your time.
+[1:20] Agent: Connecting you to a representative.
+[1:21] Agent: Please wait.
+[1:23] Agent: Hello.
+[1:26] Agent: You've reached the Pretty Good AI test line.
+[1:27] Agent: Goodbye.
+[1:32] Patient: Oh, um — wait, I had a question.

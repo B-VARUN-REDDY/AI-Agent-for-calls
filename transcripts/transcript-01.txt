@@ -1,0 +1,26 @@
+[0:01] Agent: Prima sauce.
+[0:04] Agent: Thanks for calling Pivot Point Orthopaedics.
+[0:06] Agent: Part of Pretty Good
+[0:06] Agent: AI
+[0:08] Agent: Am I speaking with Daniel?
+[0:15] Patient: Oh, no, this is Karen. Karen White. I'm actually calling about a medication refill?
+[0:19] Agent: Please tell me your date of birth.
+[0:23] Patient: Sure, it's May 5th, 1968.
+[0:28] Agent: Please spell your first and last name.
+[0:35] Patient: It's K-A-R-E-N, and then White is W-H-I-T-E.
+[0:43] Agent: Do you want to use a phone number to look up your record?
+[0:50] Patient: Yes, it's
+[0:56] Agent: Have your number as eight
+[0:57] Agent: zero five
+[0:59] Agent: five five five
+[1:00] Agent: zero one three four.
+[1:04] Agent: And your date of birth as May fifth nineteen sixty eight.
+[1:05] Agent: Is that correct?
+[1:08] Patient: Yes, that's correct.
+[1:15] Agent: I'm not able to verify the chart right now.
+[1:19] Agent: I can't proceed further, but I can make sure our clinic support team follows up with you.
+[1:29] Patient: Oh, um, okay. I just really need a refill on my lisinopril — my blood pressure Can you make sure that gets passed along?
+[1:35] Agent: Connecting you to a representative.
+[1:36] Agent: Please wait.
+[1:41] Agent: Hello. You've reached the Pretty Good AI test line.
+[1:41] Agent: Goodbye.

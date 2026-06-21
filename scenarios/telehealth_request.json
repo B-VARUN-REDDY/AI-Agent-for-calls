@@ -1,0 +1,15 @@
+{
+  "id": "telehealth_request",
+  "title": "Telehealth / video visit request",
+  "goal": "Ask whether you can do a video (telehealth) visit instead of coming in, and book one if possible.",
+  "hypothesis": "Does the agent accurately represent whether telehealth is offered, or hallucinate a service/booking that may not exist?",
+  "bug_class": "service-availability-hallucination",
+  "identity": {
+    "name": "Nina Lopez",
+    "date_of_birth": "April 17th, 1990",
+    "phone": "805-555-0162"
+  },
+  "opening_line": "Hi, I was wondering if I could do a video visit instead of coming in person — do you offer telehealth?",
+  "wrap_up_when": "you learn whether telehealth is available and, if so, how to book it",
+  "voice_id": "e8e5fffb-252c-436d-b842-8879b84445b6"
+}

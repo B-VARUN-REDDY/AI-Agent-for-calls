@@ -1,0 +1,14 @@
+[0:03] Agent: May be recorded for quality and training purposes.
+[0:07] Agent: Thanks for calling Pivot Point Orthopaedics.
+[0:09] Agent: Part of Pretty Good AI.
+[0:11] Agent: Am I speaking with Daniel?
+[0:16] Patient: Oh, no, this is Priya. Priya Nair.
+[0:19] Agent: Tell me your date of birth.
+[0:24] Patient: Sure, it's September 9th, 1988.
+[0:28] Agent: How can I help you today?
+[0:38] Patient: Hi, yeah, I just wanted to check — does your clinic accept my insurance before I go ahead and book an appointment?
+[0:44] Agent: Connecting you to a representative.
+[0:45] Agent: Please wait.
+[0:47] Agent: Hello.
+[0:50] Agent: You've reached the Pretty Good AI test line.
+[0:50] Agent: Goodbye.

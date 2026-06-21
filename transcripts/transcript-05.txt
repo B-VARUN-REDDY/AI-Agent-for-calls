@@ -1,0 +1,24 @@
+[0:03] Agent: Be recorded for quality and training purposes.
+[0:07] Agent: Thanks for calling Pivot Point Orthopaedics.
+[0:09] Agent: Part of Pretty Good AI.
+[0:11] Agent: Am I speaking with Daniel?
+[0:17] Patient: Oh, no, this is Ashley Reed. I think you might have the wrong person pulled up.
+[0:21] Agent: Please tell me your date of birth.
+[0:25] Patient: Sure, it's November 2nd, 1996.
+[0:32] Agent: Please spell your first and last name for me and tell me your date of birth again.
+[0:41] Patient: Yeah, it's A-S-H-L-E-Y, Reed, R-E-E-D. And date of birth is November 2nd, 1996.
+[0:48] Agent: Do you wanna use a phone number to look up your record?
+[0:54] Patient: Yeah, it's 805-555-0118.
+[1:00] Agent: I have your number as eight zero five
+[1:02] Agent: five five five
+[1:03] Agent: zero one one eight
+[1:07] Agent: and your date of birth is November second nineteen ninety six.
+[1:08] Agent: Is that correct?
+[1:11] Patient: Yes, that's correct.
+[1:18] Agent: Connecting you to a representative.
+[1:19] Agent: Please wait.
+[1:20] Patient: Okay, no problem.
+[1:21] Agent: Hello.
+[1:23] Agent: You've reached the Pretty Good AI test line.
+[1:24] Agent: Goodbye.
+[1:33] Patient: Oh, wait — I had a reason for calling. I need a refill on my Adderall prescription. Is there someone I can speak with about that?
