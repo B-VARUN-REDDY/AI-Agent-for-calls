@@ -27,6 +27,36 @@ the assessment was ~$1.73; the rest of the Twilio deposit is still your money.
   credits of speech sat well under that ceiling, so TTS cost nothing.
 - A **`MAX_CALL_SECONDS=240`** cap and an `end_call` tool to avoid dead-air minutes.
 
+## Business view
+
+**Marginal cost per call ≈ $0.10–0.15.** Breaking down one ~2-minute call once
+every service is on a paid plan: Twilio ~$0.03, Anthropic (Sonnet) ~$0.045,
+Deepgram ~$0.015, Cartesia ~$0.015. This run averaged ~$0.13/call all-in,
+including the fixed ~$1.15/month phone number; STT/TTS/tunnel were free.
+
+**Scales linearly, no infrastructure.** It's commodity pay-as-you-go APIs — no
+servers to run. Rough monthly cost of continuous testing:
+
+| Volume | Est. cost / month |
+|---|---|
+| 100 calls | ~$10 + $1.15 number |
+| 1,000 calls | ~$100 + $1.15 number |
+
+**ROI.** This single QA pass — 12 patient scenarios — surfaced a **critical
+safety bug** (a caller reporting chest pain is run through ID collection and
+dead-ended before anyone ever asks why they called) for **under $2**. One such
+failure reaching a real patient is a serious safety and liability event;
+catching it pre-production for the price of a coffee is the entire value
+proposition.
+
+**Regression safety net.** The 12-scenario suite can be re-run on every change to
+the agent — nightly or in CI — for ~$1–2 per run, turning ad-hoc QA into an
+automated guardrail that flags new regressions before patients hit them.
+
+**Cost discipline by design.** Sonnet (not Opus) for the live patient, manual
+bug analysis, a 4-minute call cap, and free-tier STT/TTS keep per-call cost at
+~10¢ rather than dollars — so quality testing isn't gated by budget.
+
 ## Sources
 Figures read from provider dashboards on 2026-06-20: Twilio Billing Overview
 (month-to-date spend) and the Anthropic Console API-keys cost column. Deepgram /
