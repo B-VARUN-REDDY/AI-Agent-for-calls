@@ -8,7 +8,7 @@ Actual charges incurred building and running this project (12+ real calls).
 | **Twilio** | Outbound calls + phone number | **$1.15** | Month-to-date (June 2026), pay-as-you-go. ~13 calls × 1–3 min + the `+1 971-389-3480` number. |
 | **Anthropic (Claude)** | Patient-persona LLM (Sonnet 4.6) | **$0.58** | Dedicated "Pretty Good AI" API key (`sk-ant-…i7s…eQAA`). Bug analysis was done by hand, so no extra Opus spend. |
 | **Deepgram** | Speech-to-text | **$0.00** | Covered by the $200 free signup credit. |
-| **Cartesia** | Text-to-speech (voices: Ronald, Cathy) | **$0.00** | Free plan; used **~7,000 of 20,000** monthly credits (1 credit/char). |
+| **Cartesia** | Text-to-speech (voices: Ronald, Cathy) | **$0.00** | Free plan includes **20,000 credits/month**; we used only **~7,000**, so it stayed under the limit and **nothing was billed**. |
 | **ngrok** | Public tunnel for Twilio media | **$0.00** | Free plan (one static domain). |
 | | | **≈ $1.73 total** | |
 
@@ -23,6 +23,8 @@ the assessment was ~$1.73; the rest of the Twilio deposit is still your money.
   lower per-minute cost.
 - **Sonnet** (not Opus) for the live patient, and **manual** bug analysis.
 - **Free tiers** for Deepgram, Cartesia, and ngrok covered STT/TTS/tunneling.
+  Cartesia in particular bills only *above* 20,000 credits/month — our ~7,000
+  credits of speech sat well under that ceiling, so TTS cost nothing.
 - A **`MAX_CALL_SECONDS=240`** cap and an `end_call` tool to avoid dead-air minutes.
 
 ## Sources
