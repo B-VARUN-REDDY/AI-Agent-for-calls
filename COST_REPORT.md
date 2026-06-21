@@ -8,7 +8,7 @@ Actual charges incurred building and running this project (12+ real calls).
 | **Twilio** | Outbound calls + phone number | **$1.15** | Month-to-date (June 2026), pay-as-you-go. ~13 calls × 1–3 min + the `+1 971-389-3480` number. |
 | **Anthropic (Claude)** | Patient-persona LLM (Sonnet 4.6) | **$0.58** | Dedicated "Pretty Good AI" API key (`sk-ant-…i7s…eQAA`). Bug analysis was done by hand, so no extra Opus spend. |
 | **Deepgram** | Speech-to-text | **$0.00** | Covered by the $200 free signup credit. |
-| **Cartesia** | Text-to-speech (voices: Ronald, Cathy) | **$0.00** | Free plan (20,000 credits/mo); ~13 calls stayed within the allowance. |
+| **Cartesia** | Text-to-speech (voices: Ronald, Cathy) | **$0.00** | Free plan; used **~7,000 of 20,000** monthly credits (1 credit/char). |
 | **ngrok** | Public tunnel for Twilio media | **$0.00** | Free plan (one static domain). |
 | | | **≈ $1.73 total** | |
 
