@@ -13,8 +13,8 @@ constant guarded by `config.assert_dialable()`.
 - **[BUG_REPORT.md](BUG_REPORT.md)** — issues found in the agent's responses
 - **[COST_REPORT.md](COST_REPORT.md)** — actual API/telephony spend (≈ $1.73)
 - **12 calls:** `transcripts/transcript-01..12.txt` + `recordings/recording-01..12.mp3`
-- **Loom walkthrough:** <!-- TODO: paste Loom link -->
-- **AI-debugging screen recording:** <!-- TODO: paste link -->
+- **Loom walkthrough:** https://www.loom.com/share/093a1d17d6b34f9cb05de8da803295a1
+- **AI-debugging screen recording:** https://drive.google.com/file/d/18c7ZZNYii8Qm256TIkabelR4CFik325n/view?usp=sharing
 
 Calls placed from a single number (`+1 971-389-3480`), each a distinct patient
 scenario:
